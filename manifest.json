@@ -1,0 +1,179 @@
+{
+  "schema": 1,
+  "updated": "2026-09-10",
+  "packs": [
+    {
+      "id": "adhan.mecca",
+      "type": "audio",
+      "version": 1,
+      "title": {
+        "en": "Makkah",
+        "ar": "مكة"
+      },
+      "subtitle": {
+        "en": "Full adhan",
+        "ar": "أذان كامل"
+      },
+      "bytes": 409088,
+      "order": 0,
+      "files": [
+        {
+          "name": "mecca.mp3",
+          "path": "adhan.mecca/mecca.mp3",
+          "bytes": 409088,
+          "md5": "5b8664b036b9fb66e6bb3ac4c372adbe"
+        }
+      ]
+    },
+    {
+      "id": "adhan.qatami",
+      "type": "audio",
+      "version": 1,
+      "title": {
+        "en": "Naser Al-Qatami",
+        "ar": "ناصر القطامي"
+      },
+      "subtitle": {
+        "en": "Full adhan",
+        "ar": "أذان كامل"
+      },
+      "bytes": 2117341,
+      "order": 1,
+      "files": [
+        {
+          "name": "qatami.mp3",
+          "path": "adhan.qatami/qatami.mp3",
+          "bytes": 2117341,
+          "md5": "3c2f740813de05633c8b1c6a89f073e9"
+        }
+      ]
+    },
+    {
+      "id": "adhan.zahrani",
+      "type": "audio",
+      "version": 1,
+      "title": {
+        "en": "Mansoor Az-Zahrani",
+        "ar": "منصور الزهراني"
+      },
+      "subtitle": {
+        "en": "Full adhan",
+        "ar": "أذان كامل"
+      },
+      "bytes": 7332048,
+      "order": 2,
+      "files": [
+        {
+          "name": "zahrani.mp3",
+          "path": "adhan.zahrani/zahrani.mp3",
+          "bytes": 7332048,
+          "md5": "2dee4a1f185436d8d9491dee42812f68"
+        }
+      ]
+    },
+    {
+      "id": "adhan.afasy",
+      "type": "audio",
+      "version": 1,
+      "title": {
+        "en": "Mishary Al-Afasy",
+        "ar": "مشاري العفاسي"
+      },
+      "subtitle": {
+        "en": "Full adhan",
+        "ar": "أذان كامل"
+      },
+      "bytes": 1503337,
+      "order": 3,
+      "files": [
+        {
+          "name": "afasy.mp3",
+          "path": "adhan.afasy/afasy.mp3",
+          "bytes": 1503337,
+          "md5": "c2a8e1181c80ffa36127d96f80fd6845"
+        }
+      ]
+    },
+    {
+      "id": "adhan.daghriry",
+      "type": "audio",
+      "version": 1,
+      "title": {
+        "en": "Hamad Daghriry",
+        "ar": "حمد الدغريري"
+      },
+      "subtitle": {
+        "en": "Full adhan",
+        "ar": "أذان كامل"
+      },
+      "bytes": 6181615,
+      "order": 4,
+      "files": [
+        {
+          "name": "daghriry.mp3",
+          "path": "adhan.daghriry/daghriry.mp3",
+          "bytes": 6181615,
+          "md5": "2edde25f8c189bd2e6b888109ff603bb"
+        }
+      ]
+    },
+    {
+      "id": "adhan.rabeh",
+      "type": "audio",
+      "version": 1,
+      "title": {
+        "en": "Rabeh Ibn Darah",
+        "ar": "رابح بن دارة"
+      },
+      "subtitle": {
+        "en": "Full adhan",
+        "ar": "أذان كامل"
+      },
+      "bytes": 4174784,
+      "order": 5,
+      "files": [
+        {
+          "name": "rabeh.mp3",
+          "path": "adhan.rabeh/rabeh.mp3",
+          "bytes": 4174784,
+          "md5": "bcf65bed2aa8ca6459903f083c9225fe"
+        }
+      ]
+    },
+    {
+      "id": "book.riyad-salihin",
+      "type": "book",
+      "version": 2,
+      "title": {
+        "en": "Riyad as-Salihin",
+        "ar": "رياض الصالحين"
+      },
+      "pages": [
+        1,
+        1546
+      ],
+      "bytes": 1973154,
+      "order": 0,
+      "files": [
+        {
+          "name": "ar.json",
+          "path": "book.riyad-salihin/ar.json",
+          "bytes": 1020146,
+          "md5": "088206e679de7577878b24310b2964e5"
+        },
+        {
+          "name": "en.json",
+          "path": "book.riyad-salihin/en.json",
+          "bytes": 950054,
+          "md5": "069e5d0c0167f4d43ac660368c9a4eef"
+        },
+        {
+          "name": "book.json",
+          "path": "book.riyad-salihin/book.json",
+          "bytes": 2954,
+          "md5": "a5ebc4d14f3cb6bbab633af3c95b7932"
+        }
+      ]
+    }
+  ]
+}

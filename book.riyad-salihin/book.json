@@ -1,0 +1,148 @@
+{
+ "schema": 1,
+ "pages": 1546,
+ "width": 1043,
+ "height": 1648,
+ "chapters": [
+  {
+   "id": 1,
+   "page": 1,
+   "pages": 43,
+   "en": "The Book of Good Manners",
+   "ar": "كتاب الأدب"
+  },
+  {
+   "id": 2,
+   "page": 44,
+   "pages": 31,
+   "en": "The Book About the Etiquette of Eating",
+   "ar": "كتـــــاب أدب الطعام"
+  },
+  {
+   "id": 3,
+   "page": 75,
+   "pages": 26,
+   "en": "The Book of Dress",
+   "ar": "كتــــاب اللباس"
+  },
+  {
+   "id": 4,
+   "page": 101,
+   "pages": 21,
+   "en": "The Book of the Etiquette of Sleeping, Lying and Sitting etc",
+   "ar": "كتاب آداب النوم"
+  },
+  {
+   "id": 5,
+   "page": 122,
+   "pages": 30,
+   "en": "The Book of Greetings",
+   "ar": "كتاب السلام"
+  },
+  {
+   "id": 6,
+   "page": 152,
+   "pages": 47,
+   "en": "The Book of Visiting the Sick",
+   "ar": "كتاب عيادة المريض وتشييع الميت والصلاة عليه وحضور دفنه"
+  },
+  {
+   "id": 7,
+   "page": 199,
+   "pages": 28,
+   "en": "The Book of Etiquette of Traveling",
+   "ar": "كتاب آداب السفر"
+  },
+  {
+   "id": 8,
+   "page": 227,
+   "pages": 179,
+   "en": "The Book of Virtues",
+   "ar": "كتاب الفضائل"
+  },
+  {
+   "id": 9,
+   "page": 406,
+   "pages": 2,
+   "en": "The Book of I'tikaf",
+   "ar": "كتاب الاعتكاف"
+  },
+  {
+   "id": 10,
+   "page": 408,
+   "pages": 8,
+   "en": "The Book of Hajj",
+   "ar": "كتاب الحج"
+  },
+  {
+   "id": 11,
+   "page": 416,
+   "pages": 65,
+   "en": "The Book of Jihad",
+   "ar": "كتاب الجهاد"
+  },
+  {
+   "id": 12,
+   "page": 481,
+   "pages": 11,
+   "en": "The Book of Knowledge",
+   "ar": "كتاب العلم"
+  },
+  {
+   "id": 13,
+   "page": 492,
+   "pages": 3,
+   "en": "The Book of Praise and Gratitude to Allah",
+   "ar": "كتاب حمد الله تعالى وشكره"
+  },
+  {
+   "id": 14,
+   "page": 495,
+   "pages": 8,
+   "en": "The Book of Supplicating Allah to Exalt the Mention of Allah's Messenger",
+   "ar": "كتاب الصلاة على رسول الله صلى الله عليه وسلم"
+  },
+  {
+   "id": 15,
+   "page": 503,
+   "pages": 51,
+   "en": "The Book of the Remembrance of Allah",
+   "ar": "كتاب الأذكار"
+  },
+  {
+   "id": 16,
+   "page": 554,
+   "pages": 43,
+   "en": "The Book of Du'a (Supplications)",
+   "ar": "كتاب الدعوات"
+  },
+  {
+   "id": 17,
+   "page": 597,
+   "pages": 211,
+   "en": "The Book of the Prohibited actions",
+   "ar": "كتاب الأمور المنهي عنها"
+  },
+  {
+   "id": 18,
+   "page": 808,
+   "pages": 74,
+   "en": "The Book of Miscellaneous ahadith of Significant Values",
+   "ar": "كتاب المنثورات والملح"
+  },
+  {
+   "id": 19,
+   "page": 882,
+   "pages": 26,
+   "en": "The Book of Forgiveness",
+   "ar": "كتاب الاستغفار"
+  },
+  {
+   "id": 20,
+   "page": 908,
+   "pages": 639,
+   "en": "The Book of Miscellany",
+   "ar": "كتاب المقدمات"
+  }
+ ]
+}
