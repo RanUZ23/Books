@@ -1,0 +1,476 @@
+{
+  "schema": 1,
+  "updated": "2026-09-10",
+  "packs": [
+    {
+      "id": "mushaf.qcf4",
+      "type": "fontpack",
+      "version": 1,
+      "title": {
+        "en": "Full Mushaf",
+        "ar": "المصحف كاملاً"
+      },
+      "subtitle": {
+        "en": "Read offline, all 604 pages",
+        "ar": "للقراءة بدون إنترنت"
+      },
+      "bytes": 95245128,
+      "pages": [
+        1,
+        604
+      ],
+      "order": 0,
+      "files": [
+        {
+          "name": "QCF4_Hafs_01.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_01.ttf",
+          "bytes": 2186672,
+          "md5": "ffc7650ec872a1e11326f7b668c9d34d"
+        },
+        {
+          "name": "QCF4_Hafs_02.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_02.ttf",
+          "bytes": 2071176,
+          "md5": "086efbd9ee0f275e7055fc9a0396af1a"
+        },
+        {
+          "name": "QCF4_Hafs_03.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_03.ttf",
+          "bytes": 2102504,
+          "md5": "bcb5eb7956187cae235daf1d54dc9b22"
+        },
+        {
+          "name": "QCF4_Hafs_04.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_04.ttf",
+          "bytes": 2056568,
+          "md5": "ba1c0291fb5d75c17db5c82581cdcc8d"
+        },
+        {
+          "name": "QCF4_Hafs_05.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_05.ttf",
+          "bytes": 2051124,
+          "md5": "ec78ef68cf3242964fccca45e1a4443e"
+        },
+        {
+          "name": "QCF4_Hafs_06.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_06.ttf",
+          "bytes": 2042732,
+          "md5": "15a44103838423a0ecfc705f8f4e9210"
+        },
+        {
+          "name": "QCF4_Hafs_07.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_07.ttf",
+          "bytes": 2031088,
+          "md5": "acd5ea598277776f09e184db62018f28"
+        },
+        {
+          "name": "QCF4_Hafs_08.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_08.ttf",
+          "bytes": 2032800,
+          "md5": "ac9f6c5fe76bc1edf84d8cde12f030b2"
+        },
+        {
+          "name": "QCF4_Hafs_09.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_09.ttf",
+          "bytes": 2028808,
+          "md5": "4b71ab1cbd0b2d58b68acc90e80c63ee"
+        },
+        {
+          "name": "QCF4_Hafs_10.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_10.ttf",
+          "bytes": 2085572,
+          "md5": "a1c053d561d7e8b1106d2dc0805e4cef"
+        },
+        {
+          "name": "QCF4_Hafs_11.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_11.ttf",
+          "bytes": 2050080,
+          "md5": "92c3042bb13897b68f9bd1e0d9cd9620"
+        },
+        {
+          "name": "QCF4_Hafs_12.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_12.ttf",
+          "bytes": 1991220,
+          "md5": "b6b94f5b81ed03dd25b65696ffbe0f2f"
+        },
+        {
+          "name": "QCF4_Hafs_13.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_13.ttf",
+          "bytes": 2155776,
+          "md5": "9d2c0fddc8bfcafc6750c2c163ed9323"
+        },
+        {
+          "name": "QCF4_Hafs_14.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_14.ttf",
+          "bytes": 2055432,
+          "md5": "e68d1e56bc29770d32f64053e9357481"
+        },
+        {
+          "name": "QCF4_Hafs_15.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_15.ttf",
+          "bytes": 2149656,
+          "md5": "be4cda54e6ecb5eef4504efb82410cf3"
+        },
+        {
+          "name": "QCF4_Hafs_16.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_16.ttf",
+          "bytes": 2006584,
+          "md5": "ad48666c45f195abb2eedf2e3c773342"
+        },
+        {
+          "name": "QCF4_Hafs_17.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_17.ttf",
+          "bytes": 2040212,
+          "md5": "0f8be51f3e857b2df7181ddbd43fd565"
+        },
+        {
+          "name": "QCF4_Hafs_18.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_18.ttf",
+          "bytes": 2076980,
+          "md5": "d05819e23f85c1ac32ed2b6d9c41f2be"
+        },
+        {
+          "name": "QCF4_Hafs_19.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_19.ttf",
+          "bytes": 1896444,
+          "md5": "4a233190b95ba0a1bd4034debc88c245"
+        },
+        {
+          "name": "QCF4_Hafs_20.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_20.ttf",
+          "bytes": 1975384,
+          "md5": "5b58063b8e5773a400dd2958c5276f57"
+        },
+        {
+          "name": "QCF4_Hafs_21.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_21.ttf",
+          "bytes": 1987320,
+          "md5": "9cd777591c26e4c519a54730200dcbf3"
+        },
+        {
+          "name": "QCF4_Hafs_22.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_22.ttf",
+          "bytes": 2025768,
+          "md5": "e3319c35b93fc19f8170b06131e039dc"
+        },
+        {
+          "name": "QCF4_Hafs_23.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_23.ttf",
+          "bytes": 1943336,
+          "md5": "ab6aeb9b1787c056074c6df88e9e85ce"
+        },
+        {
+          "name": "QCF4_Hafs_24.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_24.ttf",
+          "bytes": 1964172,
+          "md5": "2b19173c89feaa3ed9160e316ba5d496"
+        },
+        {
+          "name": "QCF4_Hafs_25.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_25.ttf",
+          "bytes": 2041412,
+          "md5": "2723ae9874b00778a7c5c9685823c275"
+        },
+        {
+          "name": "QCF4_Hafs_26.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_26.ttf",
+          "bytes": 2031540,
+          "md5": "c484a3ef9362f510aff68eafec1799e6"
+        },
+        {
+          "name": "QCF4_Hafs_27.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_27.ttf",
+          "bytes": 1969932,
+          "md5": "6e7436379e0c248662f1138cf34f3ba6"
+        },
+        {
+          "name": "QCF4_Hafs_28.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_28.ttf",
+          "bytes": 1963328,
+          "md5": "9100e618f63bdd6acebcef1b82b9e815"
+        },
+        {
+          "name": "QCF4_Hafs_29.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_29.ttf",
+          "bytes": 2092064,
+          "md5": "ba88bb1daac796f80c9e0c0558e246fe"
+        },
+        {
+          "name": "QCF4_Hafs_30.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_30.ttf",
+          "bytes": 2015124,
+          "md5": "21617f3e060a65c419ab23a473a8f36e"
+        },
+        {
+          "name": "QCF4_Hafs_31.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_31.ttf",
+          "bytes": 2106916,
+          "md5": "151bceead0504ca40620c25695006f5c"
+        },
+        {
+          "name": "QCF4_Hafs_32.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_32.ttf",
+          "bytes": 1966448,
+          "md5": "4111248a39ad295a2f530c6e62bd9893"
+        },
+        {
+          "name": "QCF4_Hafs_33.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_33.ttf",
+          "bytes": 1993416,
+          "md5": "24dfc4ce945d7bdde34a5d6dafbd8c16"
+        },
+        {
+          "name": "QCF4_Hafs_34.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_34.ttf",
+          "bytes": 2049548,
+          "md5": "64941376ba7f96ed9bfc5fe39ae66d3b"
+        },
+        {
+          "name": "QCF4_Hafs_35.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_35.ttf",
+          "bytes": 2202408,
+          "md5": "26897def102d60b1692341842d1b482a"
+        },
+        {
+          "name": "QCF4_Hafs_36.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_36.ttf",
+          "bytes": 2039020,
+          "md5": "4f5162eaf8321de45feceed4457bba02"
+        },
+        {
+          "name": "QCF4_Hafs_37.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_37.ttf",
+          "bytes": 2015236,
+          "md5": "2a0199d8e68fac5593ad3a7ce8549018"
+        },
+        {
+          "name": "QCF4_Hafs_38.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_38.ttf",
+          "bytes": 2132972,
+          "md5": "5db6623f48bf5a6a599cbb3165be371f"
+        },
+        {
+          "name": "QCF4_Hafs_39.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_39.ttf",
+          "bytes": 2015876,
+          "md5": "993f8c30e915802af2189d8c04acb500"
+        },
+        {
+          "name": "QCF4_Hafs_40.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_40.ttf",
+          "bytes": 2065264,
+          "md5": "7cd98b06098dfcb0f6d4f1a9b65b2a1a"
+        },
+        {
+          "name": "QCF4_Hafs_41.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_41.ttf",
+          "bytes": 2293492,
+          "md5": "7998ab4be16e190636877df679e5cb7a"
+        },
+        {
+          "name": "QCF4_Hafs_42.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_42.ttf",
+          "bytes": 2159176,
+          "md5": "b9d0ae99a58f0428a692041ce6efed4c"
+        },
+        {
+          "name": "QCF4_Hafs_43.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_43.ttf",
+          "bytes": 2009468,
+          "md5": "72f8bcaab0a9cfeedbc0b6253dea200b"
+        },
+        {
+          "name": "QCF4_Hafs_44.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_44.ttf",
+          "bytes": 2029052,
+          "md5": "97407d3a2ead9e8580d67422e01719cb"
+        },
+        {
+          "name": "QCF4_Hafs_45.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_45.ttf",
+          "bytes": 2118012,
+          "md5": "8ce693f9b8f7a051f75f6c2b56c58f15"
+        },
+        {
+          "name": "QCF4_Hafs_46.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_46.ttf",
+          "bytes": 1101912,
+          "md5": "0159858472f9b5878c152ae44b4703d7"
+        },
+        {
+          "name": "QCF4_Hafs_47.ttf",
+          "path": "mushaf.qcf4/QCF4_Hafs_47.ttf",
+          "bytes": 1826104,
+          "md5": "98b1d07225a861ab355a3a785095db0d"
+        }
+      ]
+    },
+    {
+      "id": "adhan.mecca",
+      "type": "audio",
+      "version": 1,
+      "title": {
+        "en": "Makkah",
+        "ar": "مكة"
+      },
+      "subtitle": {
+        "en": "Full adhan",
+        "ar": "أذان كامل"
+      },
+      "bytes": 409088,
+      "order": 0,
+      "files": [
+        {
+          "name": "mecca.mp3",
+          "path": "adhan.mecca/mecca.mp3",
+          "bytes": 409088,
+          "md5": "5b8664b036b9fb66e6bb3ac4c372adbe"
+        }
+      ]
+    },
+    {
+      "id": "adhan.qatami",
+      "type": "audio",
+      "version": 1,
+      "title": {
+        "en": "Naser Al-Qatami",
+        "ar": "ناصر القطامي"
+      },
+      "subtitle": {
+        "en": "Full adhan",
+        "ar": "أذان كامل"
+      },
+      "bytes": 2117341,
+      "order": 1,
+      "files": [
+        {
+          "name": "qatami.mp3",
+          "path": "adhan.qatami/qatami.mp3",
+          "bytes": 2117341,
+          "md5": "3c2f740813de05633c8b1c6a89f073e9"
+        }
+      ]
+    },
+    {
+      "id": "adhan.zahrani",
+      "type": "audio",
+      "version": 1,
+      "title": {
+        "en": "Mansoor Az-Zahrani",
+        "ar": "منصور الزهراني"
+      },
+      "subtitle": {
+        "en": "Full adhan",
+        "ar": "أذان كامل"
+      },
+      "bytes": 7332048,
+      "order": 2,
+      "files": [
+        {
+          "name": "zahrani.mp3",
+          "path": "adhan.zahrani/zahrani.mp3",
+          "bytes": 7332048,
+          "md5": "2dee4a1f185436d8d9491dee42812f68"
+        }
+      ]
+    },
+    {
+      "id": "adhan.afasy",
+      "type": "audio",
+      "version": 1,
+      "title": {
+        "en": "Mishary Al-Afasy",
+        "ar": "مشاري العفاسي"
+      },
+      "subtitle": {
+        "en": "Full adhan",
+        "ar": "أذان كامل"
+      },
+      "bytes": 1503337,
+      "order": 3,
+      "files": [
+        {
+          "name": "afasy.mp3",
+          "path": "adhan.afasy/afasy.mp3",
+          "bytes": 1503337,
+          "md5": "c2a8e1181c80ffa36127d96f80fd6845"
+        }
+      ]
+    },
+    {
+      "id": "adhan.daghriry",
+      "type": "audio",
+      "version": 1,
+      "title": {
+        "en": "Hamad Daghriry",
+        "ar": "حمد الدغريري"
+      },
+      "subtitle": {
+        "en": "Full adhan",
+        "ar": "أذان كامل"
+      },
+      "bytes": 6181615,
+      "order": 4,
+      "files": [
+        {
+          "name": "daghriry.mp3",
+          "path": "adhan.daghriry/daghriry.mp3",
+          "bytes": 6181615,
+          "md5": "2edde25f8c189bd2e6b888109ff603bb"
+        }
+      ]
+    },
+    {
+      "id": "adhan.rabeh",
+      "type": "audio",
+      "version": 1,
+      "title": {
+        "en": "Rabeh Ibn Darah",
+        "ar": "رابح بن دارة"
+      },
+      "subtitle": {
+        "en": "Full adhan",
+        "ar": "أذان كامل"
+      },
+      "bytes": 4174784,
+      "order": 5,
+      "files": [
+        {
+          "name": "rabeh.mp3",
+          "path": "adhan.rabeh/rabeh.mp3",
+          "bytes": 4174784,
+          "md5": "bcf65bed2aa8ca6459903f083c9225fe"
+        }
+      ]
+    },
+    {
+      "id": "book.riyad-salihin",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "Riyad as-Salihin",
+        "ar": "رياض الصالحين"
+      },
+      "subtitle": {
+        "en": "Imam an-Nawawi · 1,896 narrations",
+        "ar": "الإمام النووي · ١٨٩٦ حديثًا"
+      },
+      "bytes": 2098783,
+      "order": 1,
+      "files": [
+        {
+          "name": "ar.json",
+          "path": "book.riyad-salihin/ar.json",
+          "bytes": 1148570,
+          "md5": "d520d4f8f39d9c50499e7ed2c2de445f"
+        },
+        {
+          "name": "en.json",
+          "path": "book.riyad-salihin/en.json",
+          "bytes": 950213,
+          "md5": "175aff23747f13125e45b6e40bb832d6"
+        }
+      ]
+    }
+  ]
+}
