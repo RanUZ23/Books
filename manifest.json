@@ -1,0 +1,935 @@
+{
+  "schema": 1,
+  "updated": "2026-09-11",
+  "packs": [
+    {
+      "id": "adhan.mecca",
+      "type": "audio",
+      "version": 1,
+      "title": {
+        "en": "Makkah",
+        "ar": "مكة"
+      },
+      "subtitle": {
+        "en": "Full adhan",
+        "ar": "أذان كامل"
+      },
+      "bytes": 409088,
+      "order": 0,
+      "files": [
+        {
+          "name": "mecca.mp3",
+          "path": "adhan.mecca/mecca.mp3",
+          "bytes": 409088,
+          "md5": "5b8664b036b9fb66e6bb3ac4c372adbe"
+        }
+      ]
+    },
+    {
+      "id": "adhan.qatami",
+      "type": "audio",
+      "version": 1,
+      "title": {
+        "en": "Naser Al-Qatami",
+        "ar": "ناصر القطامي"
+      },
+      "subtitle": {
+        "en": "Full adhan",
+        "ar": "أذان كامل"
+      },
+      "bytes": 2117341,
+      "order": 1,
+      "files": [
+        {
+          "name": "qatami.mp3",
+          "path": "adhan.qatami/qatami.mp3",
+          "bytes": 2117341,
+          "md5": "3c2f740813de05633c8b1c6a89f073e9"
+        }
+      ]
+    },
+    {
+      "id": "adhan.zahrani",
+      "type": "audio",
+      "version": 1,
+      "title": {
+        "en": "Mansoor Az-Zahrani",
+        "ar": "منصور الزهراني"
+      },
+      "subtitle": {
+        "en": "Full adhan",
+        "ar": "أذان كامل"
+      },
+      "bytes": 7332048,
+      "order": 2,
+      "files": [
+        {
+          "name": "zahrani.mp3",
+          "path": "adhan.zahrani/zahrani.mp3",
+          "bytes": 7332048,
+          "md5": "2dee4a1f185436d8d9491dee42812f68"
+        }
+      ]
+    },
+    {
+      "id": "adhan.afasy",
+      "type": "audio",
+      "version": 1,
+      "title": {
+        "en": "Mishary Al-Afasy",
+        "ar": "مشاري العفاسي"
+      },
+      "subtitle": {
+        "en": "Full adhan",
+        "ar": "أذان كامل"
+      },
+      "bytes": 1503337,
+      "order": 3,
+      "files": [
+        {
+          "name": "afasy.mp3",
+          "path": "adhan.afasy/afasy.mp3",
+          "bytes": 1503337,
+          "md5": "c2a8e1181c80ffa36127d96f80fd6845"
+        }
+      ]
+    },
+    {
+      "id": "adhan.daghriry",
+      "type": "audio",
+      "version": 1,
+      "title": {
+        "en": "Hamad Daghriry",
+        "ar": "حمد الدغريري"
+      },
+      "subtitle": {
+        "en": "Full adhan",
+        "ar": "أذان كامل"
+      },
+      "bytes": 6181615,
+      "order": 4,
+      "files": [
+        {
+          "name": "daghriry.mp3",
+          "path": "adhan.daghriry/daghriry.mp3",
+          "bytes": 6181615,
+          "md5": "2edde25f8c189bd2e6b888109ff603bb"
+        }
+      ]
+    },
+    {
+      "id": "adhan.rabeh",
+      "type": "audio",
+      "version": 1,
+      "title": {
+        "en": "Rabeh Ibn Darah",
+        "ar": "رابح بن دارة"
+      },
+      "subtitle": {
+        "en": "Full adhan",
+        "ar": "أذان كامل"
+      },
+      "bytes": 4174784,
+      "order": 5,
+      "files": [
+        {
+          "name": "rabeh.mp3",
+          "path": "adhan.rabeh/rabeh.mp3",
+          "bytes": 4174784,
+          "md5": "bcf65bed2aa8ca6459903f083c9225fe"
+        }
+      ]
+    },
+    {
+      "id": "book.bidaya-01",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "Al-Bidaya wa'n-Nihaya — Volume 1",
+        "ar": "الجزء الأول"
+      },
+      "subtitle": {
+        "en": "445 pages",
+        "ar": "445 صفحة"
+      },
+      "collection": {
+        "id": "bidaya",
+        "title": {
+          "en": "Al-Bidaya wa'n-Nihaya",
+          "ar": "البداية والنهاية"
+        },
+        "part": 1,
+        "of": 21
+      },
+      "pages": [
+        1,
+        445
+      ],
+      "bytes": 611,
+      "order": 1,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.bidaya-01/book.json",
+          "bytes": 611,
+          "md5": "64520ccbdec5531de79e32b8b4926991"
+        }
+      ]
+    },
+    {
+      "id": "book.bidaya-02",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "Al-Bidaya wa'n-Nihaya — Volume 2",
+        "ar": "الجزء الثاني"
+      },
+      "subtitle": {
+        "en": "551 pages",
+        "ar": "551 صفحة"
+      },
+      "collection": {
+        "id": "bidaya",
+        "title": {
+          "en": "Al-Bidaya wa'n-Nihaya",
+          "ar": "البداية والنهاية"
+        },
+        "part": 2,
+        "of": 21
+      },
+      "pages": [
+        1,
+        551
+      ],
+      "bytes": 226,
+      "order": 2,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.bidaya-02/book.json",
+          "bytes": 226,
+          "md5": "32fdc7fa4784151bea79438d16f08020"
+        }
+      ]
+    },
+    {
+      "id": "book.bidaya-03",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "Al-Bidaya wa'n-Nihaya — Volume 3",
+        "ar": "الجزء الثالث"
+      },
+      "subtitle": {
+        "en": "524 pages",
+        "ar": "524 صفحة"
+      },
+      "collection": {
+        "id": "bidaya",
+        "title": {
+          "en": "Al-Bidaya wa'n-Nihaya",
+          "ar": "البداية والنهاية"
+        },
+        "part": 3,
+        "of": 21
+      },
+      "pages": [
+        1,
+        524
+      ],
+      "bytes": 226,
+      "order": 3,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.bidaya-03/book.json",
+          "bytes": 226,
+          "md5": "7983c3863eb8dd0b2ee25946442578ac"
+        }
+      ]
+    },
+    {
+      "id": "book.bidaya-04",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "Al-Bidaya wa'n-Nihaya — Volume 4",
+        "ar": "الجزء الرابع"
+      },
+      "subtitle": {
+        "en": "704 pages",
+        "ar": "704 صفحة"
+      },
+      "collection": {
+        "id": "bidaya",
+        "title": {
+          "en": "Al-Bidaya wa'n-Nihaya",
+          "ar": "البداية والنهاية"
+        },
+        "part": 4,
+        "of": 21
+      },
+      "pages": [
+        1,
+        704
+      ],
+      "bytes": 226,
+      "order": 4,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.bidaya-04/book.json",
+          "bytes": 226,
+          "md5": "9c7a76533acee3df9c8601b5d98c50bb"
+        }
+      ]
+    },
+    {
+      "id": "book.bidaya-05",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "Al-Bidaya wa'n-Nihaya — Volume 5",
+        "ar": "الجزء الخامس"
+      },
+      "subtitle": {
+        "en": "534 pages",
+        "ar": "534 صفحة"
+      },
+      "collection": {
+        "id": "bidaya",
+        "title": {
+          "en": "Al-Bidaya wa'n-Nihaya",
+          "ar": "البداية والنهاية"
+        },
+        "part": 5,
+        "of": 21
+      },
+      "pages": [
+        1,
+        534
+      ],
+      "bytes": 226,
+      "order": 5,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.bidaya-05/book.json",
+          "bytes": 226,
+          "md5": "c4749bdf3db521ffd409d83fb5b1e25a"
+        }
+      ]
+    },
+    {
+      "id": "book.bidaya-06",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "Al-Bidaya wa'n-Nihaya — Volume 6",
+        "ar": "الجزء السادس"
+      },
+      "subtitle": {
+        "en": "444 pages",
+        "ar": "444 صفحة"
+      },
+      "collection": {
+        "id": "bidaya",
+        "title": {
+          "en": "Al-Bidaya wa'n-Nihaya",
+          "ar": "البداية والنهاية"
+        },
+        "part": 6,
+        "of": 21
+      },
+      "pages": [
+        1,
+        444
+      ],
+      "bytes": 226,
+      "order": 6,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.bidaya-06/book.json",
+          "bytes": 226,
+          "md5": "4af586cbf6d8193c6c7f2e2aadf5e6e3"
+        }
+      ]
+    },
+    {
+      "id": "book.bidaya-07",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "Al-Bidaya wa'n-Nihaya — Volume 7",
+        "ar": "الجزء السابع"
+      },
+      "subtitle": {
+        "en": "632 pages",
+        "ar": "632 صفحة"
+      },
+      "collection": {
+        "id": "bidaya",
+        "title": {
+          "en": "Al-Bidaya wa'n-Nihaya",
+          "ar": "البداية والنهاية"
+        },
+        "part": 7,
+        "of": 21
+      },
+      "pages": [
+        1,
+        632
+      ],
+      "bytes": 227,
+      "order": 7,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.bidaya-07/book.json",
+          "bytes": 227,
+          "md5": "6033bebe4ffc2a198f63a827c1dd965f"
+        }
+      ]
+    },
+    {
+      "id": "book.bidaya-08",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "Al-Bidaya wa'n-Nihaya — Volume 8",
+        "ar": "الجزء الثامن"
+      },
+      "subtitle": {
+        "en": "376 pages",
+        "ar": "376 صفحة"
+      },
+      "collection": {
+        "id": "bidaya",
+        "title": {
+          "en": "Al-Bidaya wa'n-Nihaya",
+          "ar": "البداية والنهاية"
+        },
+        "part": 8,
+        "of": 21
+      },
+      "pages": [
+        1,
+        376
+      ],
+      "bytes": 227,
+      "order": 8,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.bidaya-08/book.json",
+          "bytes": 227,
+          "md5": "3c966cdd7ab3f4a01c21d4e572d58bb4"
+        }
+      ]
+    },
+    {
+      "id": "book.bidaya-09",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "Al-Bidaya wa'n-Nihaya — Volume 9",
+        "ar": "الجزء التاسع"
+      },
+      "subtitle": {
+        "en": "402 pages",
+        "ar": "402 صفحة"
+      },
+      "collection": {
+        "id": "bidaya",
+        "title": {
+          "en": "Al-Bidaya wa'n-Nihaya",
+          "ar": "البداية والنهاية"
+        },
+        "part": 9,
+        "of": 21
+      },
+      "pages": [
+        1,
+        402
+      ],
+      "bytes": 227,
+      "order": 9,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.bidaya-09/book.json",
+          "bytes": 227,
+          "md5": "8da6bca91adf581c286f65935270b13d"
+        }
+      ]
+    },
+    {
+      "id": "book.bidaya-10",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "Al-Bidaya wa'n-Nihaya — Volume 10",
+        "ar": "الجزء العاشر"
+      },
+      "subtitle": {
+        "en": "566 pages",
+        "ar": "566 صفحة"
+      },
+      "collection": {
+        "id": "bidaya",
+        "title": {
+          "en": "Al-Bidaya wa'n-Nihaya",
+          "ar": "البداية والنهاية"
+        },
+        "part": 10,
+        "of": 21
+      },
+      "pages": [
+        1,
+        566
+      ],
+      "bytes": 227,
+      "order": 10,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.bidaya-10/book.json",
+          "bytes": 227,
+          "md5": "5f63a66c3d91e9cc30345b823ad9b0df"
+        }
+      ]
+    },
+    {
+      "id": "book.bidaya-11",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "Al-Bidaya wa'n-Nihaya — Volume 11",
+        "ar": "الجزء الحادي عشر"
+      },
+      "subtitle": {
+        "en": "448 pages",
+        "ar": "448 صفحة"
+      },
+      "collection": {
+        "id": "bidaya",
+        "title": {
+          "en": "Al-Bidaya wa'n-Nihaya",
+          "ar": "البداية والنهاية"
+        },
+        "part": 11,
+        "of": 21
+      },
+      "pages": [
+        1,
+        448
+      ],
+      "bytes": 241,
+      "order": 11,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.bidaya-11/book.json",
+          "bytes": 241,
+          "md5": "5a108b8586f1e15bdef4bada7f1c23f7"
+        }
+      ]
+    },
+    {
+      "id": "book.bidaya-12",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "Al-Bidaya wa'n-Nihaya — Volume 12",
+        "ar": "الجزء الثاني عشر"
+      },
+      "subtitle": {
+        "en": "408 pages",
+        "ar": "408 صفحة"
+      },
+      "collection": {
+        "id": "bidaya",
+        "title": {
+          "en": "Al-Bidaya wa'n-Nihaya",
+          "ar": "البداية والنهاية"
+        },
+        "part": 12,
+        "of": 21
+      },
+      "pages": [
+        1,
+        408
+      ],
+      "bytes": 241,
+      "order": 12,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.bidaya-12/book.json",
+          "bytes": 241,
+          "md5": "7cc2f6f99a8f0a774778bf5235cab8a0"
+        }
+      ]
+    },
+    {
+      "id": "book.bidaya-13",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "Al-Bidaya wa'n-Nihaya — Volume 13",
+        "ar": "الجزء الثالث عشر"
+      },
+      "subtitle": {
+        "en": "304 pages",
+        "ar": "304 صفحة"
+      },
+      "collection": {
+        "id": "bidaya",
+        "title": {
+          "en": "Al-Bidaya wa'n-Nihaya",
+          "ar": "البداية والنهاية"
+        },
+        "part": 13,
+        "of": 21
+      },
+      "pages": [
+        1,
+        304
+      ],
+      "bytes": 241,
+      "order": 13,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.bidaya-13/book.json",
+          "bytes": 241,
+          "md5": "f029172c3e9fbeb23bd8cc0e5d507266"
+        }
+      ]
+    },
+    {
+      "id": "book.bidaya-14",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "Al-Bidaya wa'n-Nihaya — Volume 14",
+        "ar": "الجزء الرابع عشر"
+      },
+      "subtitle": {
+        "en": "520 pages",
+        "ar": "520 صفحة"
+      },
+      "collection": {
+        "id": "bidaya",
+        "title": {
+          "en": "Al-Bidaya wa'n-Nihaya",
+          "ar": "البداية والنهاية"
+        },
+        "part": 14,
+        "of": 21
+      },
+      "pages": [
+        1,
+        520
+      ],
+      "bytes": 241,
+      "order": 14,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.bidaya-14/book.json",
+          "bytes": 241,
+          "md5": "d92bcd66c1148e4352a908da20818b5b"
+        }
+      ]
+    },
+    {
+      "id": "book.bidaya-15",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "Al-Bidaya wa'n-Nihaya — Volume 15",
+        "ar": "الجزء الخامس عشر"
+      },
+      "subtitle": {
+        "en": "672 pages",
+        "ar": "672 صفحة"
+      },
+      "collection": {
+        "id": "bidaya",
+        "title": {
+          "en": "Al-Bidaya wa'n-Nihaya",
+          "ar": "البداية والنهاية"
+        },
+        "part": 15,
+        "of": 21
+      },
+      "pages": [
+        1,
+        672
+      ],
+      "bytes": 241,
+      "order": 15,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.bidaya-15/book.json",
+          "bytes": 241,
+          "md5": "cd8add867a77c8b4bfcffe0092959223"
+        }
+      ]
+    },
+    {
+      "id": "book.bidaya-16",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "Al-Bidaya wa'n-Nihaya — Volume 16",
+        "ar": "الجزء السادس عشر"
+      },
+      "subtitle": {
+        "en": "496 pages",
+        "ar": "496 صفحة"
+      },
+      "collection": {
+        "id": "bidaya",
+        "title": {
+          "en": "Al-Bidaya wa'n-Nihaya",
+          "ar": "البداية والنهاية"
+        },
+        "part": 16,
+        "of": 21
+      },
+      "pages": [
+        1,
+        496
+      ],
+      "bytes": 241,
+      "order": 16,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.bidaya-16/book.json",
+          "bytes": 241,
+          "md5": "b109dc8c4747864fdb468b419a764e01"
+        }
+      ]
+    },
+    {
+      "id": "book.bidaya-17",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "Al-Bidaya wa'n-Nihaya — Volume 17",
+        "ar": "الجزء السابع عشر"
+      },
+      "subtitle": {
+        "en": "538 pages",
+        "ar": "538 صفحة"
+      },
+      "collection": {
+        "id": "bidaya",
+        "title": {
+          "en": "Al-Bidaya wa'n-Nihaya",
+          "ar": "البداية والنهاية"
+        },
+        "part": 17,
+        "of": 21
+      },
+      "pages": [
+        1,
+        538
+      ],
+      "bytes": 240,
+      "order": 17,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.bidaya-17/book.json",
+          "bytes": 240,
+          "md5": "85351a40e1516b721be7a59f711c1e25"
+        }
+      ]
+    },
+    {
+      "id": "book.bidaya-18",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "Al-Bidaya wa'n-Nihaya — Volume 18",
+        "ar": "الجزء الثامن عشر"
+      },
+      "subtitle": {
+        "en": "395 pages",
+        "ar": "395 صفحة"
+      },
+      "collection": {
+        "id": "bidaya",
+        "title": {
+          "en": "Al-Bidaya wa'n-Nihaya",
+          "ar": "البداية والنهاية"
+        },
+        "part": 18,
+        "of": 21
+      },
+      "pages": [
+        1,
+        395
+      ],
+      "bytes": 170,
+      "order": 18,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.bidaya-18/book.json",
+          "bytes": 170,
+          "md5": "41ab797f4692765e3c14c3ae29551fc2"
+        }
+      ]
+    },
+    {
+      "id": "book.bidaya-19",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "Al-Bidaya wa'n-Nihaya — Volume 19",
+        "ar": "الجزء التاسع عشر"
+      },
+      "subtitle": {
+        "en": "434 pages",
+        "ar": "434 صفحة"
+      },
+      "collection": {
+        "id": "bidaya",
+        "title": {
+          "en": "Al-Bidaya wa'n-Nihaya",
+          "ar": "البداية والنهاية"
+        },
+        "part": 19,
+        "of": 21
+      },
+      "pages": [
+        1,
+        434
+      ],
+      "bytes": 170,
+      "order": 19,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.bidaya-19/book.json",
+          "bytes": 170,
+          "md5": "5b3e47bf73a5e738981f0ceed2e96954"
+        }
+      ]
+    },
+    {
+      "id": "book.bidaya-20",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "Al-Bidaya wa'n-Nihaya — Volume 20",
+        "ar": "الجزء العشرون"
+      },
+      "subtitle": {
+        "en": "434 pages",
+        "ar": "434 صفحة"
+      },
+      "collection": {
+        "id": "bidaya",
+        "title": {
+          "en": "Al-Bidaya wa'n-Nihaya",
+          "ar": "البداية والنهاية"
+        },
+        "part": 20,
+        "of": 21
+      },
+      "pages": [
+        1,
+        434
+      ],
+      "bytes": 358,
+      "order": 20,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.bidaya-20/book.json",
+          "bytes": 358,
+          "md5": "249890f055e7ecc500cf2e8152477c98"
+        }
+      ]
+    },
+    {
+      "id": "book.bidaya-21",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "Al-Bidaya wa'n-Nihaya — Volume 21",
+        "ar": "الجزء الحادي والعشرون"
+      },
+      "subtitle": {
+        "en": "427 pages",
+        "ar": "427 صفحة"
+      },
+      "collection": {
+        "id": "bidaya",
+        "title": {
+          "en": "Al-Bidaya wa'n-Nihaya",
+          "ar": "البداية والنهاية"
+        },
+        "part": 21,
+        "of": 21
+      },
+      "pages": [
+        1,
+        427
+      ],
+      "bytes": 288,
+      "order": 21,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.bidaya-21/book.json",
+          "bytes": 288,
+          "md5": "fca9125e8f001abcdeebfb369a4d15d8"
+        }
+      ]
+    },
+    {
+      "id": "book.riyad-salihin",
+      "type": "book",
+      "version": 4,
+      "title": {
+        "en": "Riyad as-Salihin",
+        "ar": "رياض الصالحين"
+      },
+      "pages": [
+        1,
+        2036
+      ],
+      "bytes": 2105045,
+      "order": 0,
+      "files": [
+        {
+          "name": "ar.json",
+          "path": "book.riyad-salihin/ar.json",
+          "bytes": 1076520,
+          "md5": "2a57481a79a2123ff866543c564b9ce1"
+        },
+        {
+          "name": "en.json",
+          "path": "book.riyad-salihin/en.json",
+          "bytes": 1009263,
+          "md5": "d5e58d2ada337e613742fd59ee6efcd1"
+        },
+        {
+          "name": "book.json",
+          "path": "book.riyad-salihin/book.json",
+          "bytes": 19262,
+          "md5": "fac0dc90329816c148fc04e70105f5b3"
+        }
+      ]
+    }
+  ]
+}
