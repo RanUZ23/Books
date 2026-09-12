@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-09-11",
+  "updated": "2026-09-12",
   "packs": [
     {
       "id": "adhan.mecca",
@@ -143,7 +143,7 @@
     {
       "id": "book.bidaya-01",
       "type": "book",
-      "version": 1,
+      "version": 2,
       "title": {
         "en": "Al-Bidaya wa'n-Nihaya — Volume 1",
         "ar": "الجزء الأول"
@@ -165,21 +165,21 @@
         1,
         445
       ],
-      "bytes": 611,
+      "bytes": 669,
       "order": 1,
       "files": [
         {
           "name": "book.json",
           "path": "book.bidaya-01/book.json",
-          "bytes": 611,
-          "md5": "64520ccbdec5531de79e32b8b4926991"
+          "bytes": 669,
+          "md5": "e01187d1baf0932a7a8b2e0072e2d1b2"
         }
       ]
     },
     {
       "id": "book.bidaya-02",
       "type": "book",
-      "version": 1,
+      "version": 2,
       "title": {
         "en": "Al-Bidaya wa'n-Nihaya — Volume 2",
         "ar": "الجزء الثاني"
@@ -201,21 +201,21 @@
         1,
         551
       ],
-      "bytes": 226,
+      "bytes": 284,
       "order": 2,
       "files": [
         {
           "name": "book.json",
           "path": "book.bidaya-02/book.json",
-          "bytes": 226,
-          "md5": "32fdc7fa4784151bea79438d16f08020"
+          "bytes": 284,
+          "md5": "09e46ec40517cc78dcab3c0c28bba96c"
         }
       ]
     },
     {
       "id": "book.bidaya-03",
       "type": "book",
-      "version": 1,
+      "version": 2,
       "title": {
         "en": "Al-Bidaya wa'n-Nihaya — Volume 3",
         "ar": "الجزء الثالث"
@@ -237,21 +237,21 @@
         1,
         524
       ],
-      "bytes": 226,
+      "bytes": 284,
       "order": 3,
       "files": [
         {
           "name": "book.json",
           "path": "book.bidaya-03/book.json",
-          "bytes": 226,
-          "md5": "7983c3863eb8dd0b2ee25946442578ac"
+          "bytes": 284,
+          "md5": "2844c8571627658cf129946bf45febae"
         }
       ]
     },
     {
       "id": "book.bidaya-04",
       "type": "book",
-      "version": 1,
+      "version": 2,
       "title": {
         "en": "Al-Bidaya wa'n-Nihaya — Volume 4",
         "ar": "الجزء الرابع"
@@ -273,21 +273,21 @@
         1,
         704
       ],
-      "bytes": 226,
+      "bytes": 284,
       "order": 4,
       "files": [
         {
           "name": "book.json",
           "path": "book.bidaya-04/book.json",
-          "bytes": 226,
-          "md5": "9c7a76533acee3df9c8601b5d98c50bb"
+          "bytes": 284,
+          "md5": "8113e9a28abbc2f49443e3a44dfe679c"
         }
       ]
     },
     {
       "id": "book.bidaya-05",
       "type": "book",
-      "version": 1,
+      "version": 2,
       "title": {
         "en": "Al-Bidaya wa'n-Nihaya — Volume 5",
         "ar": "الجزء الخامس"
@@ -309,21 +309,21 @@
         1,
         534
       ],
-      "bytes": 226,
+      "bytes": 283,
       "order": 5,
       "files": [
         {
           "name": "book.json",
           "path": "book.bidaya-05/book.json",
-          "bytes": 226,
-          "md5": "c4749bdf3db521ffd409d83fb5b1e25a"
+          "bytes": 283,
+          "md5": "41e3d7b32cf636f976d109fe34d4511e"
         }
       ]
     },
     {
       "id": "book.bidaya-06",
       "type": "book",
-      "version": 1,
+      "version": 2,
       "title": {
         "en": "Al-Bidaya wa'n-Nihaya — Volume 6",
         "ar": "الجزء السادس"
@@ -345,21 +345,21 @@
         1,
         444
       ],
-      "bytes": 226,
+      "bytes": 284,
       "order": 6,
       "files": [
         {
           "name": "book.json",
           "path": "book.bidaya-06/book.json",
-          "bytes": 226,
-          "md5": "4af586cbf6d8193c6c7f2e2aadf5e6e3"
+          "bytes": 284,
+          "md5": "fd80057474ba4040e509888e0ae0f810"
         }
       ]
     },
     {
       "id": "book.bidaya-07",
       "type": "book",
-      "version": 1,
+      "version": 2,
       "title": {
         "en": "Al-Bidaya wa'n-Nihaya — Volume 7",
         "ar": "الجزء السابع"
@@ -381,21 +381,21 @@
         1,
         632
       ],
-      "bytes": 227,
+      "bytes": 285,
       "order": 7,
       "files": [
         {
           "name": "book.json",
           "path": "book.bidaya-07/book.json",
-          "bytes": 227,
-          "md5": "6033bebe4ffc2a198f63a827c1dd965f"
+          "bytes": 285,
+          "md5": "b8a5e46cebdd90e078e8f6aabc200f1f"
         }
       ]
     },
     {
       "id": "book.bidaya-08",
       "type": "book",
-      "version": 1,
+      "version": 2,
       "title": {
         "en": "Al-Bidaya wa'n-Nihaya — Volume 8",
         "ar": "الجزء الثامن"
@@ -417,21 +417,21 @@
         1,
         376
       ],
-      "bytes": 227,
+      "bytes": 284,
       "order": 8,
       "files": [
         {
           "name": "book.json",
           "path": "book.bidaya-08/book.json",
-          "bytes": 227,
-          "md5": "3c966cdd7ab3f4a01c21d4e572d58bb4"
+          "bytes": 284,
+          "md5": "44825406d0791840a7a4ab29f9c91967"
         }
       ]
     },
     {
       "id": "book.bidaya-09",
       "type": "book",
-      "version": 1,
+      "version": 2,
       "title": {
         "en": "Al-Bidaya wa'n-Nihaya — Volume 9",
         "ar": "الجزء التاسع"
@@ -453,21 +453,21 @@
         1,
         402
       ],
-      "bytes": 227,
+      "bytes": 285,
       "order": 9,
       "files": [
         {
           "name": "book.json",
           "path": "book.bidaya-09/book.json",
-          "bytes": 227,
-          "md5": "8da6bca91adf581c286f65935270b13d"
+          "bytes": 285,
+          "md5": "88ea752067de1af8c943420f881a26c6"
         }
       ]
     },
     {
       "id": "book.bidaya-10",
       "type": "book",
-      "version": 1,
+      "version": 2,
       "title": {
         "en": "Al-Bidaya wa'n-Nihaya — Volume 10",
         "ar": "الجزء العاشر"
@@ -489,21 +489,21 @@
         1,
         566
       ],
-      "bytes": 227,
+      "bytes": 285,
       "order": 10,
       "files": [
         {
           "name": "book.json",
           "path": "book.bidaya-10/book.json",
-          "bytes": 227,
-          "md5": "5f63a66c3d91e9cc30345b823ad9b0df"
+          "bytes": 285,
+          "md5": "a40c8cc9a37f4ac85ecf6d80c6355a54"
         }
       ]
     },
     {
       "id": "book.bidaya-11",
       "type": "book",
-      "version": 1,
+      "version": 2,
       "title": {
         "en": "Al-Bidaya wa'n-Nihaya — Volume 11",
         "ar": "الجزء الحادي عشر"
@@ -525,21 +525,21 @@
         1,
         448
       ],
-      "bytes": 241,
+      "bytes": 299,
       "order": 11,
       "files": [
         {
           "name": "book.json",
           "path": "book.bidaya-11/book.json",
-          "bytes": 241,
-          "md5": "5a108b8586f1e15bdef4bada7f1c23f7"
+          "bytes": 299,
+          "md5": "a278b33213b9c91f95d295a7a8e79849"
         }
       ]
     },
     {
       "id": "book.bidaya-12",
       "type": "book",
-      "version": 1,
+      "version": 2,
       "title": {
         "en": "Al-Bidaya wa'n-Nihaya — Volume 12",
         "ar": "الجزء الثاني عشر"
@@ -561,21 +561,21 @@
         1,
         408
       ],
-      "bytes": 241,
+      "bytes": 299,
       "order": 12,
       "files": [
         {
           "name": "book.json",
           "path": "book.bidaya-12/book.json",
-          "bytes": 241,
-          "md5": "7cc2f6f99a8f0a774778bf5235cab8a0"
+          "bytes": 299,
+          "md5": "6d4051d3a6e2da4646fcfe1e80864404"
         }
       ]
     },
     {
       "id": "book.bidaya-13",
       "type": "book",
-      "version": 1,
+      "version": 2,
       "title": {
         "en": "Al-Bidaya wa'n-Nihaya — Volume 13",
         "ar": "الجزء الثالث عشر"
@@ -597,21 +597,21 @@
         1,
         304
       ],
-      "bytes": 241,
+      "bytes": 299,
       "order": 13,
       "files": [
         {
           "name": "book.json",
           "path": "book.bidaya-13/book.json",
-          "bytes": 241,
-          "md5": "f029172c3e9fbeb23bd8cc0e5d507266"
+          "bytes": 299,
+          "md5": "fa0ccb12f2195dc3e713052483e9a17d"
         }
       ]
     },
     {
       "id": "book.bidaya-14",
       "type": "book",
-      "version": 1,
+      "version": 2,
       "title": {
         "en": "Al-Bidaya wa'n-Nihaya — Volume 14",
         "ar": "الجزء الرابع عشر"
@@ -633,21 +633,21 @@
         1,
         520
       ],
-      "bytes": 241,
+      "bytes": 299,
       "order": 14,
       "files": [
         {
           "name": "book.json",
           "path": "book.bidaya-14/book.json",
-          "bytes": 241,
-          "md5": "d92bcd66c1148e4352a908da20818b5b"
+          "bytes": 299,
+          "md5": "ae865154a8baa5af27aa9ba0b9ef09cf"
         }
       ]
     },
     {
       "id": "book.bidaya-15",
       "type": "book",
-      "version": 1,
+      "version": 2,
       "title": {
         "en": "Al-Bidaya wa'n-Nihaya — Volume 15",
         "ar": "الجزء الخامس عشر"
@@ -669,21 +669,21 @@
         1,
         672
       ],
-      "bytes": 241,
+      "bytes": 299,
       "order": 15,
       "files": [
         {
           "name": "book.json",
           "path": "book.bidaya-15/book.json",
-          "bytes": 241,
-          "md5": "cd8add867a77c8b4bfcffe0092959223"
+          "bytes": 299,
+          "md5": "44952f4b44a59cbb5b8d656038708145"
         }
       ]
     },
     {
       "id": "book.bidaya-16",
       "type": "book",
-      "version": 1,
+      "version": 2,
       "title": {
         "en": "Al-Bidaya wa'n-Nihaya — Volume 16",
         "ar": "الجزء السادس عشر"
@@ -705,21 +705,21 @@
         1,
         496
       ],
-      "bytes": 241,
+      "bytes": 299,
       "order": 16,
       "files": [
         {
           "name": "book.json",
           "path": "book.bidaya-16/book.json",
-          "bytes": 241,
-          "md5": "b109dc8c4747864fdb468b419a764e01"
+          "bytes": 299,
+          "md5": "6e852e06d7cc2ed6835928f05be01bf2"
         }
       ]
     },
     {
       "id": "book.bidaya-17",
       "type": "book",
-      "version": 1,
+      "version": 2,
       "title": {
         "en": "Al-Bidaya wa'n-Nihaya — Volume 17",
         "ar": "الجزء السابع عشر"
@@ -741,21 +741,21 @@
         1,
         538
       ],
-      "bytes": 240,
+      "bytes": 297,
       "order": 17,
       "files": [
         {
           "name": "book.json",
           "path": "book.bidaya-17/book.json",
-          "bytes": 240,
-          "md5": "85351a40e1516b721be7a59f711c1e25"
+          "bytes": 297,
+          "md5": "017dc5b82abec3ed3a4f5ad3b4793c43"
         }
       ]
     },
     {
       "id": "book.bidaya-18",
       "type": "book",
-      "version": 1,
+      "version": 2,
       "title": {
         "en": "Al-Bidaya wa'n-Nihaya — Volume 18",
         "ar": "الجزء الثامن عشر"
@@ -777,21 +777,21 @@
         1,
         395
       ],
-      "bytes": 170,
+      "bytes": 228,
       "order": 18,
       "files": [
         {
           "name": "book.json",
           "path": "book.bidaya-18/book.json",
-          "bytes": 170,
-          "md5": "41ab797f4692765e3c14c3ae29551fc2"
+          "bytes": 228,
+          "md5": "143b08b7661e91057066e8c675e95300"
         }
       ]
     },
     {
       "id": "book.bidaya-19",
       "type": "book",
-      "version": 1,
+      "version": 2,
       "title": {
         "en": "Al-Bidaya wa'n-Nihaya — Volume 19",
         "ar": "الجزء التاسع عشر"
@@ -813,21 +813,21 @@
         1,
         434
       ],
-      "bytes": 170,
+      "bytes": 228,
       "order": 19,
       "files": [
         {
           "name": "book.json",
           "path": "book.bidaya-19/book.json",
-          "bytes": 170,
-          "md5": "5b3e47bf73a5e738981f0ceed2e96954"
+          "bytes": 228,
+          "md5": "e17b49549527f6ee6f1d5164725897d1"
         }
       ]
     },
     {
       "id": "book.bidaya-20",
       "type": "book",
-      "version": 1,
+      "version": 2,
       "title": {
         "en": "Al-Bidaya wa'n-Nihaya — Volume 20",
         "ar": "الجزء العشرون"
@@ -849,21 +849,21 @@
         1,
         434
       ],
-      "bytes": 358,
+      "bytes": 415,
       "order": 20,
       "files": [
         {
           "name": "book.json",
           "path": "book.bidaya-20/book.json",
-          "bytes": 358,
-          "md5": "249890f055e7ecc500cf2e8152477c98"
+          "bytes": 415,
+          "md5": "4c4d2f11fa115e3e4e9cc11c6a6bdba2"
         }
       ]
     },
     {
       "id": "book.bidaya-21",
       "type": "book",
-      "version": 1,
+      "version": 2,
       "title": {
         "en": "Al-Bidaya wa'n-Nihaya — Volume 21",
         "ar": "الجزء الحادي والعشرون"
@@ -885,14 +885,14 @@
         1,
         427
       ],
-      "bytes": 288,
+      "bytes": 346,
       "order": 21,
       "files": [
         {
           "name": "book.json",
           "path": "book.bidaya-21/book.json",
-          "bytes": 288,
-          "md5": "fca9125e8f001abcdeebfb369a4d15d8"
+          "bytes": 346,
+          "md5": "3f03788789bc1f2d15f2104c6fc9bb12"
         }
       ]
     },
