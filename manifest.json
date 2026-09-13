@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-09-12",
+  "updated": "2026-09-13",
   "packs": [
     {
       "id": "adhan.mecca",
@@ -893,6 +893,186 @@
           "path": "book.bidaya-21/book.json",
           "bytes": 425,
           "md5": "8e9ae9178d4d1200a5ea50616c9df355"
+        }
+      ]
+    },
+    {
+      "id": "book.hayat-sahabah-01",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "حياة الصحابة — الجزء الأول",
+        "ar": "حياة الصحابة — الجزء الأول"
+      },
+      "subtitle": {
+        "en": "513 صفحة",
+        "ar": "513 صفحة"
+      },
+      "collection": {
+        "id": "hayat-sahabah",
+        "title": {
+          "en": "حياة الصحابة",
+          "ar": "حياة الصحابة"
+        },
+        "part": 1,
+        "of": 5
+      },
+      "pages": [
+        1,
+        513
+      ],
+      "bytes": 1425,
+      "order": 1,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.hayat-sahabah-01/book.json",
+          "bytes": 1425,
+          "md5": "3f785fef32b1ed792f078728f9865b57"
+        }
+      ]
+    },
+    {
+      "id": "book.hayat-sahabah-02",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "حياة الصحابة — الجزء الثاني",
+        "ar": "حياة الصحابة — الجزء الثاني"
+      },
+      "subtitle": {
+        "en": "635 صفحة",
+        "ar": "635 صفحة"
+      },
+      "collection": {
+        "id": "hayat-sahabah",
+        "title": {
+          "en": "حياة الصحابة",
+          "ar": "حياة الصحابة"
+        },
+        "part": 2,
+        "of": 5
+      },
+      "pages": [
+        1,
+        635
+      ],
+      "bytes": 838,
+      "order": 2,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.hayat-sahabah-02/book.json",
+          "bytes": 838,
+          "md5": "1471b6d2a941f6db1ed7110da9bf452c"
+        }
+      ]
+    },
+    {
+      "id": "book.hayat-sahabah-03",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "حياة الصحابة — الجزء الثالث",
+        "ar": "حياة الصحابة — الجزء الثالث"
+      },
+      "subtitle": {
+        "en": "578 صفحة",
+        "ar": "578 صفحة"
+      },
+      "collection": {
+        "id": "hayat-sahabah",
+        "title": {
+          "en": "حياة الصحابة",
+          "ar": "حياة الصحابة"
+        },
+        "part": 3,
+        "of": 5
+      },
+      "pages": [
+        1,
+        578
+      ],
+      "bytes": 724,
+      "order": 3,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.hayat-sahabah-03/book.json",
+          "bytes": 724,
+          "md5": "e069decbca0fa18651756f3e3846920c"
+        }
+      ]
+    },
+    {
+      "id": "book.hayat-sahabah-04",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "حياة الصحابة — الجزء الرابع",
+        "ar": "حياة الصحابة — الجزء الرابع"
+      },
+      "subtitle": {
+        "en": "563 صفحة",
+        "ar": "563 صفحة"
+      },
+      "collection": {
+        "id": "hayat-sahabah",
+        "title": {
+          "en": "حياة الصحابة",
+          "ar": "حياة الصحابة"
+        },
+        "part": 4,
+        "of": 5
+      },
+      "pages": [
+        1,
+        563
+      ],
+      "bytes": 1234,
+      "order": 4,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.hayat-sahabah-04/book.json",
+          "bytes": 1234,
+          "md5": "b91aba8221760f31209509a010f1d88f"
+        }
+      ]
+    },
+    {
+      "id": "book.hayat-sahabah-05",
+      "type": "book",
+      "version": 1,
+      "title": {
+        "en": "حياة الصحابة — الجزء الخامس",
+        "ar": "حياة الصحابة — الجزء الخامس"
+      },
+      "subtitle": {
+        "en": "564 صفحة",
+        "ar": "564 صفحة"
+      },
+      "collection": {
+        "id": "hayat-sahabah",
+        "title": {
+          "en": "حياة الصحابة",
+          "ar": "حياة الصحابة"
+        },
+        "part": 5,
+        "of": 5
+      },
+      "pages": [
+        1,
+        564
+      ],
+      "bytes": 935,
+      "order": 5,
+      "files": [
+        {
+          "name": "book.json",
+          "path": "book.hayat-sahabah-05/book.json",
+          "bytes": 935,
+          "md5": "66c1e645ff4367a3e362f6602e1019b4"
         }
       ]
     },
